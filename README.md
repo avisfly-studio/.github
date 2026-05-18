@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm LocoCao 👋
 
-<!--
-**loco-cao/loco-cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Indie maker building useful tools, apps, and content products for creators & small businesses.
 
-Here are some ideas to get you started:
+## What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Free Tools
+
+* **QR Free** — Beautiful free QR code generator
+  → https://free-qr.one
+
+### 📦 More Coming Soon
+
+* AI tools
+* Productivity apps
+* SEO/content tools
+* Creator utilities
+* Small business SaaS
+
+## Tech Stack
+
+⚡ Next.js · React · TypeScript · Tailwind CSS
+☁️ Vercel · Supabase · Cloudflare
+
+## Currently Exploring
+
+* AI Agents
+* SEO automation
+* Indie hacking
+* Growth systems
+* Open source workflows
+
+## Connect
+
+🐦 Twitter/X — @LocoCao
+📫 Email — [loco97642110@gmail.com](loco97642110@gmail.com)
