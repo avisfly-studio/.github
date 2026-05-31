@@ -1,36 +1,23 @@
-# Hey, I'm LocoCao 👋
+# Simple tools. Real impact. 🍀
 
-🚀 Indie maker building useful tools, apps, and content products for creators & small businesses.
+Welcome to **LuckyKit**. We design and build high-utility apps, SaaS, and content products for modern creators and small businesses.
 
-## What I'm Building
+---
 
-### 🛠 Free Tools
+### 🚀 Try Our Free Tool
+* **[Free QR Code Generator](https://free-qr.one)** 🔗 
+  Generate high-quality, beautiful QR codes for your brand. No registration required, completely free forever.
 
-* **QR Free** — Beautiful free QR code generator
-  → https://free-qr.one
+### 🗺️ Product Roadmap
+* **AI & Automation:** Custom AI agents for daily workflows.
+* **SEO Tools:** Content optimization utilities for indie makers.
+* **Creator Utilities:** Small but powerful tools to boost productivity.
 
-### 📦 More Coming Soon
+### 🛠️ Tech Stack
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Vercel` `Supabase` `Cloudflare`
 
-* AI tools
-* Productivity apps
-* SEO/content tools
-* Creator utilities
-* Small business SaaS
+---
 
-## Tech Stack
-
-⚡ Next.js · React · TypeScript · Tailwind CSS
-☁️ Vercel · Supabase · Cloudflare
-
-## Currently Exploring
-
-* AI Agents
-* SEO automation
-* Indie hacking
-* Growth systems
-* Open source workflows
-
-## Connect
-
-🐦 Twitter/X — @LocoCao2026
-📫 Email — [loco97642110@gmail.com](loco97642110@gmail.com)
+### 🌐 Stay Updated
+* **X / Twitter:** [@LuckyKitPro](https://x.com)
+* **Official Link:** [LuckyKit QR Generator](https://free-qr.one)
